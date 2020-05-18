@@ -1,0 +1,3 @@
+[submodule "sub-module-profile"]
+	path = sub-module-profile
+	url = https://github.com/xunhe/sub-module-profile.git
